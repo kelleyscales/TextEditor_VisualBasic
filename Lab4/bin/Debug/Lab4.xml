@@ -1,0 +1,108 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Lab4
+</name>
+</assembly>
+<members>
+<member name="T:Lab4.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:Lab4.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:Lab4.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="M:Lab4.frmTextEditor.frmlab4_Load(System.Object,System.EventArgs)">
+ <summary>
+ calls the defaults when the form is first loaded
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+</member>
+<member name="M:Lab4.frmTextEditor.frmlab4_SizeChanged(System.Object,System.EventArgs)">
+ <summary>
+ Handles the size changed in order to keep the textbox in size with the form
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+</member>
+<member name="M:Lab4.frmTextEditor.txtMain_TextChanged(System.Object,System.EventArgs)">
+ <summary>
+ Call defaults for menu and creates criteria when text is changed
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+</member>
+<member name="M:Lab4.frmTextEditor.MenuDefaults">
+ <summary>
+ Sets the menu defaults
+ </summary>
+</member>
+<member name="M:Lab4.frmTextEditor.OpenToolStripMenuItem_Click(System.Object,System.EventArgs)">
+ <summary>
+ Opens text file from computer when user clicks on the Open option in menu
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+</member>
+<member name="M:Lab4.frmTextEditor.tsmSave_Click(System.Object,System.EventArgs)">
+ <summary>
+ Saves the document as a txt file in file that is opened when user clicks the save option in menu
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+</member>
+<member name="M:Lab4.frmTextEditor.SaveAsToolStripMenuItem_Click(System.Object,System.EventArgs)">
+ <summary>
+ Saves the document as a txt file when users clicks the save as option in menu
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+</member>
+<member name="M:Lab4.frmTextEditor.ExitToolStripMenuItem_Click(System.Object,System.EventArgs)">
+ <summary>
+ Closes the windows application when user clicks the Exit option in menu
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+</member>
+<member name="M:Lab4.frmTextEditor.PrintToolStripMenuItem_Click(System.Object,System.EventArgs)">
+ <summary>
+ Opens Print dialog box and gives option to print when user clicks the Print option in menu
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+</member>
+<member name="M:Lab4.frmTextEditor.CloseToolStripMenuItem_Click(System.Object,System.EventArgs)">
+ <summary>
+ Closes the file when user clicks the Close option in menu and re-sets text editor
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+</member>
+<member name="M:Lab4.frmTextEditor.tsmIndex_Click(System.Object,System.EventArgs)">
+ <summary>
+ Gets form named frmIndex and displays it when user clicks Index option in menu
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+</member>
+<member name="M:Lab4.frmTextEditor.tsmAbout_Click(System.Object,System.EventArgs)">
+ <summary>
+ Gets form named frmAbout and displays it when the user clicks About option in menu
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+</member>
+</members>
+</doc>

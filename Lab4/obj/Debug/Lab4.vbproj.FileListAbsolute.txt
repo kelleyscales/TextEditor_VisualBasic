@@ -1,0 +1,25 @@
+c:\users\kelleyscales\documents\visual studio 2012\Projects\Lab4\Lab4\bin\Debug\Lab4.exe.config
+c:\users\kelleyscales\documents\visual studio 2012\Projects\Lab4\Lab4\bin\Debug\Lab4.exe
+c:\users\kelleyscales\documents\visual studio 2012\Projects\Lab4\Lab4\bin\Debug\Lab4.pdb
+c:\users\kelleyscales\documents\visual studio 2012\Projects\Lab4\Lab4\bin\Debug\Lab4.xml
+c:\users\kelleyscales\documents\visual studio 2012\Projects\Lab4\Lab4\obj\Debug\Lab4.Resources.resources
+c:\users\kelleyscales\documents\visual studio 2012\Projects\Lab4\Lab4\obj\Debug\Lab4.vbproj.GenerateResource.Cache
+c:\users\kelleyscales\documents\visual studio 2012\Projects\Lab4\Lab4\obj\Debug\Lab4.exe
+c:\users\kelleyscales\documents\visual studio 2012\Projects\Lab4\Lab4\obj\Debug\Lab4.xml
+c:\users\kelleyscales\documents\visual studio 2012\Projects\Lab4\Lab4\obj\Debug\Lab4.pdb
+C:\Users\KelleyScales\Documents\Visual Studio 2012\Projects\Lab4\Lab4\obj\Debug\Lab4.frmTextEditor.resources
+C:\Users\KelleyScales\Documents\Visual Studio 2012\Projects\Lab4\Lab4\obj\Debug\Lab4.frmIndex.resources
+C:\Users\KelleyScales\Documents\Visual Studio 2012\Projects\Lab4\Lab4\obj\Debug\Lab4.frmAbout.resources
+C:\Users\KelleyScales\Desktop\Lab4\Lab4\bin\Debug\Lab4.exe.config
+C:\Users\KelleyScales\Desktop\Lab4\Lab4\obj\Debug\Lab4.exe
+C:\Users\KelleyScales\Desktop\Lab4\Lab4\obj\Debug\Lab4.xml
+C:\Users\KelleyScales\Desktop\Lab4\Lab4\obj\Debug\Lab4.pdb
+C:\Users\KelleyScales\Desktop\Lab4\Lab4\bin\Debug\Lab4.exe
+C:\Users\KelleyScales\Desktop\Lab4\Lab4\bin\Debug\Lab4.pdb
+C:\Users\KelleyScales\Desktop\Lab4\Lab4\bin\Debug\Lab4.xml
+C:\Users\KelleyScales\Desktop\Lab4\Lab4\obj\Debug\Lab4.vbprojResolveAssemblyReference.cache
+C:\Users\KelleyScales\Desktop\Lab4\Lab4\obj\Debug\Lab4.frmAbout.resources
+C:\Users\KelleyScales\Desktop\Lab4\Lab4\obj\Debug\Lab4.frmIndex.resources
+C:\Users\KelleyScales\Desktop\Lab4\Lab4\obj\Debug\Lab4.frmTextEditor.resources
+C:\Users\KelleyScales\Desktop\Lab4\Lab4\obj\Debug\Lab4.Resources.resources
+C:\Users\KelleyScales\Desktop\Lab4\Lab4\obj\Debug\Lab4.vbproj.GenerateResource.Cache
